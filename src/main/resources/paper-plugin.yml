@@ -1,0 +1,5 @@
+name: sample
+version: 1.0
+main: io.github.jwyoon1220.sample.Main
+description: A paper plugin
+api-version: 1.20
